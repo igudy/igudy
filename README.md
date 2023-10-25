@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igudy</h1>
 <h3 align="center">A passionate software engineer from Nigeria.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igudy" alt="igudy" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -29,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igudy&show_icons=true&locale=en" alt="igudy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igudy&" alt="igudy" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igudy" alt="igudy" /></a> </p>
