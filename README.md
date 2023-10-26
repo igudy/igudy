@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Igudy.</h1><h3>The Code Slinger.</h3>
+<h1 align="center">Hi 👋, I'm Igudy. The Code Slinger.</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%" height="500px">
 
 <h3 align="center">A passionate software engineer from Nigeria.</h3>
