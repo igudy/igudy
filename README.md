@@ -97,8 +97,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igudy_dev" height="60" width="60" style="border: 2px solid #1DA1F2; border-radius: 20%;" />
   </a>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=igudy" alt="igudy" style="margin-right: 10px;" />
-  </a>
-</p>
+<!-- <p align="center"> -->
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=igudy" alt="igudy" style="margin-right: 10px;" /> -->
+<!--   </a> -->
+<!-- </p> -->
