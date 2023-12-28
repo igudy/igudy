@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Igudy. <p>The Code Slinger🤺</p></h2>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%" height="500px"> -->
 
-<h3 align="center">A passionate software engineer from Nigeria.</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 - 🌱 I’m currently learning **React Native**
 - 👨‍💻 All of my projects are available at [https://igudy-portfolio.vercel.app/](https://igudy-portfolio.vercel.app/)
