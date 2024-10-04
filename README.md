@@ -3,7 +3,7 @@
 
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning Data Structure and Algorithms
+<!--- 🌱 I’m currently learning Data Structure and Algorithms  -->
 - 👨‍💻 All of my projects are available at [https://igudy-portfolio.vercel.app/](https://igudy-portfolio.vercel.app/)
 - 💬 Ask me about **Javascript, Typescript, React, React Native, NextJS & Express**
 - 📫 How to reach me **goodnessigunma1@gmail.com**
