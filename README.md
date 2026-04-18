@@ -32,7 +32,7 @@
 ```ts
 const igudy = {
   role: "Full-Stack Software Engineer",
-  stack: ["TypeScript", "React", "Next.js", "React Native", "Node.js"],
+  stack: ["TypeScript", "React", "Next.js", "React Native", "Nest", "Express"],
   currentlyLearning: ["System Design", "DSA", "Cloud Architecture"],
   askMeAbout: ["Web Apps", "Mobile Apps", "APIs", "UI/UX"],
   quote: "The Only Way Is Up 🚀",
