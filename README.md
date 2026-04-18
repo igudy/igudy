@@ -40,9 +40,8 @@ const igudy = {
 ```
 
 - 🔭 All my projects live at **[igudy-portfolio.vercel.app](https://igudy-portfolio.vercel.app/)**
-- 💬 Ask me about **JavaScript, TypeScript, React, React Native, Next.js & Express**
+- 💬 Ask me about **JavaScript, TypeScript, React, React Native, Next.js & Nest**
 - 📫 Reach me at **goodnessigunma1@gmail.com**
-- ⚡ Fun fact: I believe in shipping > perfecting
 
 ---
 
@@ -90,27 +89,6 @@ const igudy = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=igudy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=igudy&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igudy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="180" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igudy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -121,7 +99,7 @@ const igudy = {
 
 <div align="center">
 
-### 💭 "The Only Way Is Up 🚀"
+### "The Only Way Is Up 🚀"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
