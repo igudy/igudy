@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="https://igudy-portfolio.vercel.app/">
+  <a href="https://igudy.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:goodnessigunma1@gmail.com">
